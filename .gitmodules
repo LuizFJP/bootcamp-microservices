@@ -1,3 +1,6 @@
 [submodule "ms-learning-attendance"]
 	path = ms-learning-attendance
 	url = https://github.com/LuizFJP/ms-learning-attendance
+[submodule "ms-learning-cad"]
+	path = ms-learning-cad
+	url = https://github.com/LuizFJP/ms-learning-cad
