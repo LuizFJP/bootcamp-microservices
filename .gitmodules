@@ -4,3 +4,6 @@
 [submodule "ms-learning-cad"]
 	path = ms-learning-cad
 	url = https://github.com/LuizFJP/ms-learning-cad
+[submodule "ms-learning-course"]
+	path = ms-learning-course
+	url = https://github.com/LuizFJP/ms-learning-course
